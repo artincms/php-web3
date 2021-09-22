@@ -1,9 +1,15 @@
 {
-    "name": "artincms/web3.php",
+    "name": "artincms/php-web3",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
-    
+    "homepage": "https://github.com/artincms/php-web3",
+    "authors": [
+        {
+            "name": "Adel Raheli",
+            "email": "adel.raheli@gmail.com"
+        }
+    ],
     "require": {
         "php": "^7.1",
          "ext-mbstring": "*",
